@@ -1,0 +1,8 @@
+{
+  "name": "AddPro",
+  "displayName": "AddPro",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-4037488705304723~2446935090",
+    "ios_app_id": "ca-app-pub-4037488705304723~4313468968"
+  }
+}
